@@ -1,4 +1,9 @@
 # dotfiles
+
+## Branch details
++ **master**: Dual-screen
++ **single**: Single screen
+
 ## Some details
 + **OS**: Ubuntu 16.04
 + **WM**: Awesome
